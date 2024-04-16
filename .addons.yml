@@ -1,0 +1,11 @@
+---
+channel: stable
+addons:
+  cups-airprint:
+    repository: joschi-ha/addon-cups-airprint
+    target: cups-airprint
+    image: ghcr.io/joschi-ha/cups-airprint/{arch}
+  sane:
+    repository: joschi-ha/addon-sane
+    target: sane
+    image: ghcr.io/joschi-ha/sane/{arch}

@@ -1,0 +1,5 @@
+---
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: "Home Assistant Add-On repository"
+url: "https://github.com/joschi-ha/repository"
+maintainer: "Jochen Schalanda <jochen+home-assistant@schalanda.name>"
